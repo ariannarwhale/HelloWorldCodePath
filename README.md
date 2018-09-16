@@ -7,6 +7,7 @@ Phone displays Hello world and "Hello from Arianna" in black text on a pink back
 
 ### App Walk-though
 <img src="https://imgur.com/sTtVAUp" width=200><br>
+https://imgur.com/sTtVAUp
 
 
 ### Required User Stories
