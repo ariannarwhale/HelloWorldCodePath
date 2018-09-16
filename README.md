@@ -6,8 +6,7 @@ CodePath preWorkshop code HelloWorld-Arianna
 Phone displays Hello world and "Hello from Arianna" in black text on a pink background.
 
 ### App Walk-though
-<img src="https://imgur.com/sTtVAUp" width=200><br>
-https://imgur.com/sTtVAUp
+<img src="https://i.imgur.com/sTtVAUp.gif" width=200><br>
 
 
 ### Required User Stories
